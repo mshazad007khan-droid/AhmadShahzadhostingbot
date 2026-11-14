@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+to# -*- coding: utf-8 -*-
 import telebot
 import subprocess
 import os
